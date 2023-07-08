@@ -10,4 +10,4 @@ def testEan():
     fullname = ean.save('my_ean13_barcode')
 
 if __name__ == '__main__':
-    testEan()
+    
